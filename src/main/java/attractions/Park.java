@@ -1,9 +1,10 @@
 package attractions;
 
+import behaviours.IReviewed;
 import behaviours.ISecurity;
 import people.Visitor;
 
-public class Park extends Attraction implements ISecurity {
+public class Park extends Attraction implements ISecurity, IReviewed {
 
     public Park(String name, int rating) {
         super(name, rating);
