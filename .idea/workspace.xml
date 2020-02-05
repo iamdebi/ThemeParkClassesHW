@@ -2,36 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10f49b70-591b-4e97-9722-d4e13123f9b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Attraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/people/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/people/Visitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stalls/CandyflossStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stalls/CandyflossStallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stalls/IceCreamStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stalls/IceCreamStallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stalls/TobaccoStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stalls/TobaccoStallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/attractions/Attraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/attractions/Attraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/attractions/Dodgems.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/attractions/Dodgems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/attractions/Park.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/attractions/Park.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/attractions/RollerCoaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/attractions/RollerCoaster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stalls/CandyflossStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/CandyflossStall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stalls/IceCreamStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/IceCreamStall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stalls/Stall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/Stall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stalls/TobaccoStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/TobaccoStall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/attractions/DodgemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/attractions/DodgemTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/attractions/RollercoasterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/attractions/RollercoasterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stalls/CandyflossStallTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stalls/CandyflossStallTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stalls/IceCreamStallTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stalls/IceCreamStallTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stalls/TobaccoStallTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stalls/TobaccoStallTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThemePark.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThemePark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/people/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/people/Visitor.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
